@@ -1,0 +1,14 @@
+C:\Users\gspaula\Source\Repos\Livro_TDD-CarrinhoDeCompras\Livro_TDD-CarrinhoDeCompras\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\gspaula\Source\Repos\Livro_TDD-CarrinhoDeCompras\Livro_TDD-CarrinhoDeCompras\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\gspaula\Source\Repos\Livro_TDD-CarrinhoDeCompras\Livro_TDD-CarrinhoDeCompras\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\gspaula\Source\Repos\Livro_TDD-CarrinhoDeCompras\Livro_TDD-CarrinhoDeCompras\bin\Debug\netcoreapp2.1\Livro_TDD-CarrinhoDeCompras.deps.json
+C:\Users\gspaula\Source\Repos\Livro_TDD-CarrinhoDeCompras\Livro_TDD-CarrinhoDeCompras\bin\Debug\netcoreapp2.1\Livro_TDD-CarrinhoDeCompras.runtimeconfig.json
+C:\Users\gspaula\Source\Repos\Livro_TDD-CarrinhoDeCompras\Livro_TDD-CarrinhoDeCompras\bin\Debug\netcoreapp2.1\Livro_TDD-CarrinhoDeCompras.runtimeconfig.dev.json
+C:\Users\gspaula\Source\Repos\Livro_TDD-CarrinhoDeCompras\Livro_TDD-CarrinhoDeCompras\bin\Debug\netcoreapp2.1\Livro_TDD-CarrinhoDeCompras.dll
+C:\Users\gspaula\Source\Repos\Livro_TDD-CarrinhoDeCompras\Livro_TDD-CarrinhoDeCompras\bin\Debug\netcoreapp2.1\Livro_TDD-CarrinhoDeCompras.pdb
+C:\Users\gspaula\Source\Repos\Livro_TDD-CarrinhoDeCompras\Livro_TDD-CarrinhoDeCompras\obj\Debug\netcoreapp2.1\Livro_TDD-CarrinhoDeCompras.csprojAssemblyReference.cache
+C:\Users\gspaula\Source\Repos\Livro_TDD-CarrinhoDeCompras\Livro_TDD-CarrinhoDeCompras\obj\Debug\netcoreapp2.1\Livro_TDD-CarrinhoDeCompras.csproj.CoreCompileInputs.cache
+C:\Users\gspaula\Source\Repos\Livro_TDD-CarrinhoDeCompras\Livro_TDD-CarrinhoDeCompras\obj\Debug\netcoreapp2.1\Livro_TDD-CarrinhoDeCompras.AssemblyInfoInputs.cache
+C:\Users\gspaula\Source\Repos\Livro_TDD-CarrinhoDeCompras\Livro_TDD-CarrinhoDeCompras\obj\Debug\netcoreapp2.1\Livro_TDD-CarrinhoDeCompras.AssemblyInfo.cs
+C:\Users\gspaula\Source\Repos\Livro_TDD-CarrinhoDeCompras\Livro_TDD-CarrinhoDeCompras\obj\Debug\netcoreapp2.1\Livro_TDD-CarrinhoDeCompras.dll
+C:\Users\gspaula\Source\Repos\Livro_TDD-CarrinhoDeCompras\Livro_TDD-CarrinhoDeCompras\obj\Debug\netcoreapp2.1\Livro_TDD-CarrinhoDeCompras.pdb
