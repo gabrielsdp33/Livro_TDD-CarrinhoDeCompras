@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Livro_TDD-CarrinhoDeCompras", "Livro_TDD-CarrinhoDeCompras\Livro_TDD-CarrinhoDeCompras.csproj", "{4AFCC3A8-CAC2-41A4-A725-BA6CAB14C1D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Livro_TDD-CarrinhoDeCompras", "Livro_TDD-CarrinhoDeCompras\Livro_TDD-CarrinhoDeCompras.csproj", "{4AFCC3A8-CAC2-41A4-A725-BA6CAB14C1D2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Livro_TDD-MaiorEMenor", "Livro_TDD-MaiorEMenor\Livro_TDD-MaiorEMenor.csproj", "{DFF10A01-9B82-4C68-8967-77C86F7CA8E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4AFCC3A8-CAC2-41A4-A725-BA6CAB14C1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AFCC3A8-CAC2-41A4-A725-BA6CAB14C1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AFCC3A8-CAC2-41A4-A725-BA6CAB14C1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF10A01-9B82-4C68-8967-77C86F7CA8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF10A01-9B82-4C68-8967-77C86F7CA8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF10A01-9B82-4C68-8967-77C86F7CA8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF10A01-9B82-4C68-8967-77C86F7CA8E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

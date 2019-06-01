@@ -1,0 +1,14 @@
+C:\Users\gspaula\Source\Repos\Livro_TDD-NumeraisRomanos\Livro_TDD-NumeraisRomanos\obj\Debug\netcoreapp2.1\Livro_TDD-NumeraisRomanos.csprojAssemblyReference.cache
+C:\Users\gspaula\Source\Repos\Livro_TDD-NumeraisRomanos\Livro_TDD-NumeraisRomanos\obj\Debug\netcoreapp2.1\Livro_TDD-NumeraisRomanos.csproj.CoreCompileInputs.cache
+C:\Users\gspaula\Source\Repos\Livro_TDD-NumeraisRomanos\Livro_TDD-NumeraisRomanos\obj\Debug\netcoreapp2.1\Livro_TDD-NumeraisRomanos.AssemblyInfoInputs.cache
+C:\Users\gspaula\Source\Repos\Livro_TDD-NumeraisRomanos\Livro_TDD-NumeraisRomanos\obj\Debug\netcoreapp2.1\Livro_TDD-NumeraisRomanos.AssemblyInfo.cs
+C:\Users\gspaula\Source\Repos\Livro_TDD-NumeraisRomanos\Livro_TDD-NumeraisRomanos\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\gspaula\Source\Repos\Livro_TDD-NumeraisRomanos\Livro_TDD-NumeraisRomanos\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\gspaula\Source\Repos\Livro_TDD-NumeraisRomanos\Livro_TDD-NumeraisRomanos\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\gspaula\Source\Repos\Livro_TDD-NumeraisRomanos\Livro_TDD-NumeraisRomanos\bin\Debug\netcoreapp2.1\Livro_TDD-NumeraisRomanos.deps.json
+C:\Users\gspaula\Source\Repos\Livro_TDD-NumeraisRomanos\Livro_TDD-NumeraisRomanos\bin\Debug\netcoreapp2.1\Livro_TDD-NumeraisRomanos.runtimeconfig.json
+C:\Users\gspaula\Source\Repos\Livro_TDD-NumeraisRomanos\Livro_TDD-NumeraisRomanos\bin\Debug\netcoreapp2.1\Livro_TDD-NumeraisRomanos.runtimeconfig.dev.json
+C:\Users\gspaula\Source\Repos\Livro_TDD-NumeraisRomanos\Livro_TDD-NumeraisRomanos\bin\Debug\netcoreapp2.1\Livro_TDD-NumeraisRomanos.dll
+C:\Users\gspaula\Source\Repos\Livro_TDD-NumeraisRomanos\Livro_TDD-NumeraisRomanos\bin\Debug\netcoreapp2.1\Livro_TDD-NumeraisRomanos.pdb
+C:\Users\gspaula\Source\Repos\Livro_TDD-NumeraisRomanos\Livro_TDD-NumeraisRomanos\obj\Debug\netcoreapp2.1\Livro_TDD-NumeraisRomanos.dll
+C:\Users\gspaula\Source\Repos\Livro_TDD-NumeraisRomanos\Livro_TDD-NumeraisRomanos\obj\Debug\netcoreapp2.1\Livro_TDD-NumeraisRomanos.pdb
